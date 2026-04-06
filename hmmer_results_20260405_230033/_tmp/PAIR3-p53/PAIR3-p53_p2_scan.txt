@@ -1,0 +1,45 @@
+# hmmscan :: search sequence(s) against a profile database
+# HMMER 3.4 (Aug 2023); http://hmmer.org/
+# Copyright (C) 2023 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query sequence file:             /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/PAIR3-p53/PAIR3-p53_p2_scan.fa
+# target HMM database:             /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/Pfam-A.hmm
+# output directed to file:         /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/PAIR3-p53/PAIR3-p53_p2_scan.txt
+# per-dom hits tabular output:     /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/PAIR3-p53/PAIR3-p53_p2_domtbl.txt
+# show alignments in output:       no
+# profile reporting threshold:     E-value <= 0.001
+# domain reporting threshold:      E-value <= 0.001
+# multithread parallelization:     4 workers
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       PAIR3-p53_P2  [L=187]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model    Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+    4.5e-45  154.5   0.9    5.3e-45  154.2   0.9    1.1  1  P53       P53 DNA-binding domain
+
+
+Domain annotation for each model:
+>> P53  P53 DNA-binding domain
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  154.2   0.9   1.9e-49   5.3e-45      62     192 ..       1     129 [.       1     130 [. 0.96
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (187 residues searched)
+Target model(s):                       27481  (4374119 nodes)
+Passed MSV filter:                       510  (0.0185583); expected 549.6 (0.02)
+Passed bias filter:                      360  (0.0131); expected 549.6 (0.02)
+Passed Vit filter:                        16  (0.00058222); expected 27.5 (0.001)
+Passed Fwd filter:                         1  (3.63888e-05); expected 0.3 (1e-05)
+Initial search space (Z):              27481  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.21u 0.10s 00:00:00.31 Elapsed: 00:00:00.22
+# Mc/sec: 3598.39
+//
+[ok]

@@ -1,0 +1,20 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Ras                  PF00071.29   162 PAIR2-Ras_P2         -            205   1.5e-56  191.0   0.1   1   1   4.5e-60   1.8e-56  190.8   0.1     1   160    10   175    10   177 0.97 Ras family
+Roc                  PF08477.20   119 PAIR2-Ras_P2         -            205   6.2e-32  110.9   0.0   1   1   2.2e-35   8.7e-32  110.4   0.0     1   119    10   128    10   128 0.86 Ras of Complex, Roc, domain of DAPkinase
+Arf                  PF00025.28   174 PAIR2-Ras_P2         -            205   1.9e-12   47.6   0.0   1   1   5.7e-16   2.2e-12   47.4   0.0    14   143     8   145     1   175 0.74 ADP-ribosylation factor family
+MMR_HSR1             PF01926.30   113 PAIR2-Ras_P2         -            205   1.3e-08   35.6   0.0   1   1   6.2e-12   2.4e-08   34.7   0.0     1   100    10   107    10   126 0.73 50S ribosome-binding GTPase
+GTP_EFTU             PF00009.34   188 PAIR2-Ras_P2         -            205   1.2e-06   28.8   0.1   1   1   1.2e-08   4.7e-05   23.7   0.1    66   184    54   173     6   177 0.79 Elongation factor Tu GTP binding domain
+Gtr1_RagA            PF04670.19   232 PAIR2-Ras_P2         -            205   6.6e-06   26.3   0.0   1   1   2.1e-09   8.2e-06   26.0   0.0     1   131    10   136    10   166 0.77 Gtr1/RagA G protein conserved region
+RsgA_GTPase          PF03193.23   174 PAIR2-Ras_P2         -            205   6.6e-05   23.4   0.1   1   1   1.6e-06    0.0063   16.9   0.1   109   129    11    31     5    72 0.87 RsgA GTPase
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/PAIR2-Ras/PAIR2-Ras_p2_scan.fa
+# Target file:     /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/Pfam-A.hmm
+# Option settings: hmmscan -o /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/PAIR2-Ras/PAIR2-Ras_p2_scan.txt --domtblout /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/PAIR2-Ras/PAIR2-Ras_p2_domtbl.txt --noali -E 0.001 --domE 0.001 --cpu 4 /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/Pfam-A.hmm /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/PAIR2-Ras/PAIR2-Ras_p2_scan.fa 
+# Current dir:     /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM
+# Date:            Sun Apr  5 23:00:35 2026
+# [ok]

@@ -1,0 +1,57 @@
+# hmmscan :: search sequence(s) against a profile database
+# HMMER 3.4 (Aug 2023); http://hmmer.org/
+# Copyright (C) 2023 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query sequence file:             /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/PAIR1-PDK/PAIR1-PDK_p1_scan.fa
+# target HMM database:             /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/Pfam-A.hmm
+# output directed to file:         /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/PAIR1-PDK/PAIR1-PDK_p1_scan.txt
+# per-dom hits tabular output:     /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/PAIR1-PDK/PAIR1-PDK_p1_domtbl.txt
+# show alignments in output:       no
+# profile reporting threshold:     E-value <= 0.001
+# domain reporting threshold:      E-value <= 0.001
+# multithread parallelization:     4 workers
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       PAIR1-PDK_P1  [L=331]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model          Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
+    2.1e-68  231.1   0.0    2.9e-68  230.7   0.0    1.2  1  Pkinase         Protein kinase domain
+    9.6e-31  107.6   0.0    1.3e-30  107.2   0.0    1.1  1  PK_Tyr_Ser-Thr  Protein tyrosine and serine/threonine kinase
+    0.00041   20.2   0.0      0.001   18.8   0.0    1.6  1  ABC1            ABC1 atypical kinase-like domain
+
+
+Domain annotation for each model:
+>> Pkinase  Protein kinase domain
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  230.7   0.0   3.2e-72   2.9e-68       1     262 []       4     307 ..       4     307 .. 0.86
+
+>> PK_Tyr_Ser-Thr  Protein tyrosine and serine/threonine kinase
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  107.2   0.0   1.4e-34   1.3e-30       3     200 ..       6     220 ..       4     239 .. 0.91
+
+>> ABC1  ABC1 atypical kinase-like domain
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   18.8   0.0   1.1e-07     0.001     182     229 ..     137     184 ..     110     191 .. 0.79
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (331 residues searched)
+Target model(s):                       27481  (4374119 nodes)
+Passed MSV filter:                       499  (0.018158); expected 549.6 (0.02)
+Passed bias filter:                      496  (0.0180488); expected 549.6 (0.02)
+Passed Vit filter:                        37  (0.00134638); expected 27.5 (0.001)
+Passed Fwd filter:                         7  (0.000254721); expected 0.3 (1e-05)
+Initial search space (Z):              27481  [actual number of targets]
+Domain search space  (domZ):               3  [number of targets reported over threshold]
+# CPU time: 0.23u 0.19s 00:00:00.42 Elapsed: 00:00:00.32
+# Mc/sec: 4501.14
+//
+[ok]

@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+P53                  PF00870.24   193 PAIR3-p53_P1         -            487   1.2e-57  195.5   0.1   1   1   1.3e-61   1.2e-57  195.5   0.1    28   191     1   164     1   166 0.95 P53 DNA-binding domain
+P53_tetramer         PF07710.17    42 PAIR3-p53_P1         -            487   2.9e-20   72.0   0.3   1   1   7.8e-24   7.1e-20   70.7   0.2     1    42   198   238   198   238 0.96 P53 tetramerisation motif
+SAM_2                PF07647.25    66 PAIR3-p53_P1         -            487   6.9e-11   42.7   0.0   1   1   1.3e-14   1.2e-10   41.9   0.0     1    65   348   411   348   412 0.94 SAM domain (Sterile alpha motif)
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/PAIR3-p53/PAIR3-p53_p1_scan.fa
+# Target file:     /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/Pfam-A.hmm
+# Option settings: hmmscan -o /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/PAIR3-p53/PAIR3-p53_p1_scan.txt --domtblout /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/PAIR3-p53/PAIR3-p53_p1_domtbl.txt --noali -E 0.001 --domE 0.001 --cpu 4 /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/Pfam-A.hmm /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/PAIR3-p53/PAIR3-p53_p1_scan.fa 
+# Current dir:     /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM
+# Date:            Sun Apr  5 23:00:35 2026
+# [ok]

@@ -1,0 +1,38 @@
+pair,sequence,pfam_domain,dom_evalue,dom_score,ali_from,ali_to,description
+PAIR1-PDK,P1,Pkinase,2.9e-68,230.7,4,307,Protein kinase domain
+PAIR1-PDK,P1,PK_Tyr_Ser-Thr,1.3e-30,107.2,6,220,Protein tyrosine and serine/threonine kinase
+PAIR1-PDK,P1,ABC1,0.001,18.8,137,184,ABC1 atypical kinase-like domain
+PAIR1-PDK,P2,Pkinase,4.8e-66,223.4,23,311,Protein kinase domain
+PAIR1-PDK,P2,PK_Tyr_Ser-Thr,6.2e-31,108.2,25,230,Protein tyrosine and serine/threonine kinase
+PAIR2-Ras,P1,Ras,2.9e-47,160.8,13,187,Ras family
+PAIR2-Ras,P1,Roc,2.5e-21,76.7,13,126,"Ras of Complex, Roc, domain of DAPkinase"
+PAIR2-Ras,P1,Arf,5.9e-09,36.2,11,182,ADP-ribosylation factor family
+PAIR2-Ras,P1,Gtr1_RagA,0.00063,19.8,13,144,Gtr1/RagA G protein conserved region
+PAIR2-Ras,P2,Ras,1.8e-56,190.8,10,175,Ras family
+PAIR2-Ras,P2,Roc,8.7e-32,110.4,10,128,"Ras of Complex, Roc, domain of DAPkinase"
+PAIR2-Ras,P2,Arf,2.2e-12,47.4,8,145,ADP-ribosylation factor family
+PAIR2-Ras,P2,MMR_HSR1,2.4e-08,34.7,10,107,50S ribosome-binding GTPase
+PAIR2-Ras,P2,GTP_EFTU,4.7e-05,23.7,54,173,Elongation factor Tu GTP binding domain
+PAIR2-Ras,P2,Gtr1_RagA,8.2e-06,26.0,10,136,Gtr1/RagA G protein conserved region
+PAIR3-p53,P1,P53,1.2e-57,195.5,1,164,P53 DNA-binding domain
+PAIR3-p53,P1,P53_tetramer,7.1e-20,70.7,198,238,P53 tetramerisation motif
+PAIR3-p53,P1,SAM_2,1.2e-10,41.9,348,411,SAM domain (Sterile alpha motif)
+PAIR3-p53,P2,P53,5.3e-45,154.2,1,129,P53 DNA-binding domain
+PAIR4-ABC,P1,ABC_membrane,2.7e-48,165.6,19,330,ABC transporter transmembrane region
+PAIR4-ABC,P1,ABC_tran,3.3e-30,106.1,394,541,ABC transporter
+PAIR4-ABC,P1,AAA_22,5.4e-05,24.1,403,541,AAA domain
+PAIR4-ABC,P2,ABC_membrane,7.6e-42,144.5,195,464,ABC transporter transmembrane region
+PAIR4-ABC,P2,ABC_tran,6.4e-33,114.8,532,680,ABC transporter
+PAIR5-HR,P1,DNA_ligase_aden,9.6e-100,333.9,61,312,NAD-dependent DNA ligase adenylation domain
+PAIR5-HR,P1,OB_DNA_ligase,2.1e-31,108.3,316,392,NAD-dependent DNA ligase OB-fold domain
+PAIR5-HR,P1,Nlig-Ia,7.2e-24,84.0,2,56,"DNA ligase-like, N-terminal NAD+-binding domain"
+PAIR5-HR,P1,HHH_2,1.4e-19,70.5,506,568,Helix-hairpin-helix motif
+PAIR5-HR,P1,BRCT,4.8e-13,49.7,589,659,BRCA1 C Terminus (BRCT) domain
+PAIR5-HR,P1,HHH_5,9.6e-09,36.2,509,556,Helix-hairpin-helix domain
+PAIR5-HR,P1,DNA_ligase_ZBD,9.1e-09,35.6,402,428,NAD-dependent DNA ligase C4 zinc finger domain
+PAIR5-HR,P1,PTCB-BRCT,1.4e-05,25.6,602,653,twin BRCT domain
+PAIR5-HR,P2,RFC1,6.9e-60,202.3,780,931,Replication factor RFC1 C terminal domain
+PAIR5-HR,P2,AAA_lid_RFC1,5.5e-29,100.0,633,691,"RFC1-like, AAA+ ATPase lid domain"
+PAIR5-HR,P2,BRCT,2.6e-15,57.0,304,379,BRCA1 C Terminus (BRCT) domain
+PAIR5-HR,P2,AAA,7.3e-08,33.5,502,602,ATPase family associated with various cellular activities (AAA)
+PAIR5-HR,P2,Rad17,5.8e-06,27.0,449,537,Rad17 P-loop domain

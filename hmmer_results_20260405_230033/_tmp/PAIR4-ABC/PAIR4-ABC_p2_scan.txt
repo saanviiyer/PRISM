@@ -1,0 +1,51 @@
+# hmmscan :: search sequence(s) against a profile database
+# HMMER 3.4 (Aug 2023); http://hmmer.org/
+# Copyright (C) 2023 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query sequence file:             /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/PAIR4-ABC/PAIR4-ABC_p2_scan.fa
+# target HMM database:             /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/Pfam-A.hmm
+# output directed to file:         /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/PAIR4-ABC/PAIR4-ABC_p2_scan.txt
+# per-dom hits tabular output:     /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/PAIR4-ABC/PAIR4-ABC_p2_domtbl.txt
+# show alignments in output:       no
+# profile reporting threshold:     E-value <= 0.001
+# domain reporting threshold:      E-value <= 0.001
+# multithread parallelization:     4 workers
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       PAIR4-ABC_P2  [L=774]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model        Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------     -----------
+    5.3e-42  145.0   1.6    7.6e-42  144.5   1.6    1.1  1  ABC_membrane  ABC transporter transmembrane region
+      4e-33  115.5   0.0    6.4e-33  114.8   0.0    1.3  1  ABC_tran      ABC transporter
+
+
+Domain annotation for each model:
+>> ABC_membrane  ABC transporter transmembrane region
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  144.5   1.6   5.5e-46   7.6e-42       3     268 ..     195     464 ..     193     469 .. 0.95
+
+>> ABC_tran  ABC transporter
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  114.8   0.0   4.6e-37   6.4e-33       2     137 .]     532     680 ..     531     680 .. 0.90
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (774 residues searched)
+Target model(s):                       27481  (4374119 nodes)
+Passed MSV filter:                       993  (0.0361341); expected 549.6 (0.02)
+Passed bias filter:                      809  (0.0294385); expected 549.6 (0.02)
+Passed Vit filter:                       133  (0.00483971); expected 27.5 (0.001)
+Passed Fwd filter:                        23  (0.000836942); expected 0.3 (1e-05)
+Initial search space (Z):              27481  [actual number of targets]
+Domain search space  (domZ):               2  [number of targets reported over threshold]
+# CPU time: 0.31u 0.14s 00:00:00.45 Elapsed: 00:00:00.26
+# Mc/sec: 12750.67
+//
+[ok]

@@ -1,0 +1,14 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+PAIR2-Ras_P2         -          PAIR2-Ras_p1         -            1.8e-22   65.9   2.0   2.7e-20   58.8   2.0   2.0   1   1   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/PAIR2-Ras/PAIR2-Ras_p1.hmm
+# Target file:     /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/PAIR2-Ras/PAIR2-Ras_p2.fa
+# Option settings: hmmsearch -o /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/PAIR2-Ras/PAIR2-Ras_p2_vs_p1.txt --tblout /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/PAIR2-Ras/PAIR2-Ras_p2_vs_p1_tbl.txt --noali -E 1e6 --max --cpu 4 /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/PAIR2-Ras/PAIR2-Ras_p1.hmm /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/PAIR2-Ras/PAIR2-Ras_p2.fa 
+# Current dir:     /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM
+# Date:            Sun Apr  5 23:00:34 2026
+# [ok]

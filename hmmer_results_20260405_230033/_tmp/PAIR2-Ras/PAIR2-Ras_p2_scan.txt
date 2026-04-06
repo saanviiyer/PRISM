@@ -1,0 +1,81 @@
+# hmmscan :: search sequence(s) against a profile database
+# HMMER 3.4 (Aug 2023); http://hmmer.org/
+# Copyright (C) 2023 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query sequence file:             /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/PAIR2-Ras/PAIR2-Ras_p2_scan.fa
+# target HMM database:             /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/Pfam-A.hmm
+# output directed to file:         /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/PAIR2-Ras/PAIR2-Ras_p2_scan.txt
+# per-dom hits tabular output:     /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/PAIR2-Ras/PAIR2-Ras_p2_domtbl.txt
+# show alignments in output:       no
+# profile reporting threshold:     E-value <= 0.001
+# domain reporting threshold:      E-value <= 0.001
+# multithread parallelization:     4 workers
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       PAIR2-Ras_P2  [L=205]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------    -----------
+    1.5e-56  191.0   0.1    1.8e-56  190.8   0.1    1.0  1  Ras          Ras family
+    6.2e-32  110.9   0.0    8.7e-32  110.4   0.0    1.2  1  Roc          Ras of Complex, Roc, domain of DAPkinase
+    1.9e-12   47.6   0.0    2.2e-12   47.4   0.0    1.1  1  Arf          ADP-ribosylation factor family
+    1.3e-08   35.6   0.0    2.4e-08   34.7   0.0    1.5  1  MMR_HSR1     50S ribosome-binding GTPase
+    1.2e-06   28.8   0.1    4.7e-05   23.7   0.1    2.2  1  GTP_EFTU     Elongation factor Tu GTP binding domain
+    6.6e-06   26.3   0.0    8.2e-06   26.0   0.0    1.1  1  Gtr1_RagA    Gtr1/RagA G protein conserved region
+    6.6e-05   23.4   0.1     0.0063   16.9   0.1    2.3  1  RsgA_GTPase  RsgA GTPase
+
+
+Domain annotation for each model:
+>> Ras  Ras family
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  190.8   0.1   4.5e-60   1.8e-56       1     160 [.      10     175 ..      10     177 .. 0.97
+
+>> Roc  Ras of Complex, Roc, domain of DAPkinase
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  110.4   0.0   2.2e-35   8.7e-32       1     119 []      10     128 ..      10     128 .. 0.86
+
+>> Arf  ADP-ribosylation factor family
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   47.4   0.0   5.7e-16   2.2e-12      14     143 ..       8     145 ..       1     175 [. 0.74
+
+>> MMR_HSR1  50S ribosome-binding GTPase
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   34.7   0.0   6.2e-12   2.4e-08       1     100 [.      10     107 ..      10     126 .. 0.73
+
+>> GTP_EFTU  Elongation factor Tu GTP binding domain
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   23.7   0.1   1.2e-08   4.7e-05      66     184 ..      54     173 ..       6     177 .. 0.79
+
+>> Gtr1_RagA  Gtr1/RagA G protein conserved region
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   26.0   0.0   2.1e-09   8.2e-06       1     131 [.      10     136 ..      10     166 .. 0.77
+
+>> RsgA_GTPase  RsgA GTPase
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   16.9   0.1   1.6e-06    0.0063     109     129 ..      11      31 ..       5      72 .. 0.87
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (205 residues searched)
+Target model(s):                       27481  (4374119 nodes)
+Passed MSV filter:                       889  (0.0323496); expected 549.6 (0.02)
+Passed bias filter:                      757  (0.0275463); expected 549.6 (0.02)
+Passed Vit filter:                       105  (0.00382082); expected 27.5 (0.001)
+Passed Fwd filter:                        25  (0.000909719); expected 0.3 (1e-05)
+Initial search space (Z):              27481  [actual number of targets]
+Domain search space  (domZ):               7  [number of targets reported over threshold]
+# CPU time: 0.24u 0.18s 00:00:00.42 Elapsed: 00:00:00.28
+# Mc/sec: 3094.64
+//
+[ok]

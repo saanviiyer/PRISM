@@ -1,0 +1,83 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.4 (Aug 2023); http://hmmer.org/
+# Copyright (C) 2023 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/_ava/hmms/PAIR5-HR_P2.hmm
+# target sequence database:        /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/_ava/fas/_all.fa
+# output directed to file:         /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/_ava/ava_PAIR5-HR_P2.txt
+# per-seq hits tabular output:     /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/_ava/ava_PAIR5-HR_P2_tbl.txt
+# show alignments in output:       no
+# sequence reporting threshold:    E-value <= 1e+06
+# Max sensitivity mode:            on [all heuristic filters off]
+# number of worker threads:        4
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       PAIR5-HR_P2  [M=1039]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence     Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------     -----------
+          0 2473.8  51.1          0 2473.6  51.1    1.0  1  PAIR5-HR_P2   
+    1.6e-09   25.6   0.0    2.8e-09   24.8   0.0    1.3  1  PAIR5-HR_P1   
+  ------ inclusion threshold ------
+       0.74   -3.1   0.0        1.5   -4.2   0.0    1.1  1  PAIR4-ABC_P1  
+       0.74   -3.1   0.0        1.1   -3.6   0.0    1.1  1  PAIR2-Ras_P1  
+       0.94   -3.5   0.1        3.1   -5.2   0.0    1.1  2  PAIR2-Ras_P2  
+        1.2   -3.9   0.0        1.7   -4.3   0.0    1.0  1  PAIR3-p53_P2  
+          2   -4.6   0.0        6.4   -6.2   0.0    1.0  1  PAIR1-PDK_P1  
+
+
+Domain annotation for each sequence:
+>> PAIR5-HR_P2  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ! 2473.6  51.1         0         0       1    1039 []       1    1039 []       1    1039 [] 1.00
+
+>> PAIR5-HR_P1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   24.8   0.0   1.9e-09   2.8e-09     306     379 ..     589     661 ..     580     666 .. 0.93
+
+>> PAIR4-ABC_P1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   -4.2   0.0       1.1       1.5     501     519 ..     404     422 ..     400     433 .. 0.83
+
+>> PAIR2-Ras_P1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   -3.6   0.0      0.75       1.1     211     222 ..     129     140 ..      84     169 .. 0.66
+
+>> PAIR2-Ras_P2  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   -5.9   0.0       3.6       5.2     502     514 ..      11      23 ..      10      39 .. 0.77
+   2 ?   -5.2   0.0       2.2       3.1     953     953 ..     159     159 ..     125     188 .. 0.61
+
+>> PAIR3-p53_P2  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   -4.3   0.0       1.2       1.7     210     230 ..     123     146 ..     100     177 .. 0.47
+
+>> PAIR1-PDK_P1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   -6.2   0.0       4.5       6.4     326     368 ..     121     163 ..      98     168 .. 0.65
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (1039 nodes)
+Target sequences:                         10  (4875 residues searched)
+Passed MSV filter:                        10  (1); expected 10.0 (1)
+Passed bias filter:                       10  (1); expected 10.0 (1)
+Passed Vit filter:                        10  (1); expected 10.0 (1)
+Passed Fwd filter:                        10  (1); expected 10.0 (1)
+Initial search space (Z):                 10  [actual number of targets]
+Domain search space  (domZ):               7  [number of targets reported over threshold]
+# CPU time: 0.03u 0.00s 00:00:00.03 Elapsed: 00:00:00.03
+# Mc/sec: 158.13
+//
+[ok]

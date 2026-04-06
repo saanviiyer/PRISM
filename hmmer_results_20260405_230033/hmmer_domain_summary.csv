@@ -1,0 +1,6 @@
+pair,source,n_p1_domains,n_p2_domains,n_shared,domain_overlap_jaccard,p1_domains,p2_domains,shared_domains
+PAIR1-PDK,local_hmmscan,3,2,2,0.6667,ABC1|PK_Tyr_Ser-Thr|Pkinase,PK_Tyr_Ser-Thr|Pkinase,PK_Tyr_Ser-Thr|Pkinase
+PAIR2-Ras,local_hmmscan,4,6,4,0.6667,Arf|Gtr1_RagA|Ras|Roc,Arf|GTP_EFTU|Gtr1_RagA|MMR_HSR1|Ras|Roc,Arf|Gtr1_RagA|Ras|Roc
+PAIR3-p53,local_hmmscan,3,1,1,0.3333,P53|P53_tetramer|SAM_2,P53,P53
+PAIR4-ABC,local_hmmscan,3,2,2,0.6667,AAA_22|ABC_membrane|ABC_tran,ABC_membrane|ABC_tran,ABC_membrane|ABC_tran
+PAIR5-HR,local_hmmscan,8,5,1,0.0833,BRCT|DNA_ligase_ZBD|DNA_ligase_aden|HHH_2|HHH_5|Nlig-Ia|OB_DNA_ligase|PTCB-BRCT,AAA|AAA_lid_RFC1|BRCT|RFC1|Rad17,BRCT

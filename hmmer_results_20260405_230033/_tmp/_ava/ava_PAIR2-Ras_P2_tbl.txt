@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+PAIR2-Ras_P2         -          PAIR2-Ras_P2         -           2.5e-150  486.7   0.6  2.8e-150  486.6   0.6   1.0   1   0   0   1   1   1   1 -
+PAIR2-Ras_P1         -          PAIR2-Ras_P2         -            5.7e-21   64.2   0.7   6.2e-20   60.8   0.7   1.9   1   1   0   1   1   1   1 -
+PAIR4-ABC_P1         -          PAIR2-Ras_P2         -               0.36   -0.4   0.0         1   -1.9   0.0   1.3   1   0   0   1   1   1   0 -
+PAIR4-ABC_P2         -          PAIR2-Ras_P2         -               0.58   -1.1   0.0       1.7   -2.6   0.0   1.3   1   0   0   1   1   1   0 -
+PAIR1-PDK_P2         -          PAIR2-Ras_P2         -               0.66   -1.3   0.0       3.6   -3.7   0.0   1.3   2   0   0   2   2   2   0 -
+PAIR5-HR_P1          -          PAIR2-Ras_P2         -                1.1   -2.1   0.0       6.1   -4.5   0.0   1.2   1   0   0   1   1   1   0 -
+PAIR3-p53_P2         -          PAIR2-Ras_P2         -                1.3   -2.3   0.0       2.7   -3.3   0.0   1.2   1   0   0   1   1   1   0 -
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/_ava/hmms/PAIR2-Ras_P2.hmm
+# Target file:     /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/_ava/fas/_all.fa
+# Option settings: hmmsearch -o /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/_ava/ava_PAIR2-Ras_P2.txt --tblout /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/_ava/ava_PAIR2-Ras_P2_tbl.txt --noali -E 1e6 --max --cpu 4 /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/_ava/hmms/PAIR2-Ras_P2.hmm /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/_ava/fas/_all.fa 
+# Current dir:     /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM
+# Date:            Sun Apr  5 23:00:39 2026
+# [ok]

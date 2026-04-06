@@ -1,0 +1,6 @@
+pair,model_length_p2,model_length_p1,neff_p2,neff_p1,bitscore_p1_vs_p2,evalue_p1_vs_p2,bitscore_p2_vs_p1,evalue_p2_vs_p1,p1_coverage_on_p2,p2_coverage_on_p1,error
+PAIR1-PDK,,,,,148.0,1.6e-47,156.8,3.4e-50,0.8373,0.8735,
+PAIR2-Ras,,,,,64.2,5.7e-22,65.9,1.8e-22,0.8676,0.5049,
+PAIR3-p53,,,,,186.5,2.2e-59,185.8,5.8e-59,0.8254,0.3039,
+PAIR4-ABC,,,,,302.1,4e-94,301.6,5.8e-94,0.6722,0.8025,
+PAIR5-HR,,,,,25.6,1.6e-10,27.2,7.2e-11,0.0703,0.1119,

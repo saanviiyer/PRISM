@@ -1,0 +1,15 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ABC_membrane         PF00664.29   274 PAIR4-ABC_P2         -            774   5.3e-42  145.0   1.6   1   1   5.5e-46   7.6e-42  144.5   1.6     3   268   195   464   193   469 0.95 ABC transporter transmembrane region
+ABC_tran             PF00005.34   137 PAIR4-ABC_P2         -            774     4e-33  115.5   0.0   1   1   4.6e-37   6.4e-33  114.8   0.0     2   137   532   680   531   680 0.90 ABC transporter
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/PAIR4-ABC/PAIR4-ABC_p2_scan.fa
+# Target file:     /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/Pfam-A.hmm
+# Option settings: hmmscan -o /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/PAIR4-ABC/PAIR4-ABC_p2_scan.txt --domtblout /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/PAIR4-ABC/PAIR4-ABC_p2_domtbl.txt --noali -E 0.001 --domE 0.001 --cpu 4 /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/Pfam-A.hmm /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/PAIR4-ABC/PAIR4-ABC_p2_scan.fa 
+# Current dir:     /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM
+# Date:            Sun Apr  5 23:00:37 2026
+# [ok]

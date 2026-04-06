@@ -1,0 +1,57 @@
+# hmmscan :: search sequence(s) against a profile database
+# HMMER 3.4 (Aug 2023); http://hmmer.org/
+# Copyright (C) 2023 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query sequence file:             /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/PAIR3-p53/PAIR3-p53_p1_scan.fa
+# target HMM database:             /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/Pfam-A.hmm
+# output directed to file:         /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/PAIR3-p53/PAIR3-p53_p1_scan.txt
+# per-dom hits tabular output:     /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/PAIR3-p53/PAIR3-p53_p1_domtbl.txt
+# show alignments in output:       no
+# profile reporting threshold:     E-value <= 0.001
+# domain reporting threshold:      E-value <= 0.001
+# multithread parallelization:     4 workers
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       PAIR3-p53_P1  [L=487]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model        Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------     -----------
+    1.2e-57  195.5   0.1    1.2e-57  195.5   0.1    1.6  1  P53           P53 DNA-binding domain
+    2.9e-20   72.0   0.3    7.1e-20   70.7   0.2    1.7  1  P53_tetramer  P53 tetramerisation motif
+    6.9e-11   42.7   0.0    1.2e-10   41.9   0.0    1.4  1  SAM_2         SAM domain (Sterile alpha motif)
+
+
+Domain annotation for each model:
+>> P53  P53 DNA-binding domain
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  195.5   0.1   1.3e-61   1.2e-57      28     191 ..       1     164 [.       1     166 [. 0.95
+
+>> P53_tetramer  P53 tetramerisation motif
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   70.7   0.2   7.8e-24   7.1e-20       1      42 []     198     238 ..     198     238 .. 0.96
+
+>> SAM_2  SAM domain (Sterile alpha motif)
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   41.9   0.0   1.3e-14   1.2e-10       1      65 [.     348     411 ..     348     412 .. 0.94
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (487 residues searched)
+Target model(s):                       27481  (4374119 nodes)
+Passed MSV filter:                      1598  (0.0581493); expected 549.6 (0.02)
+Passed bias filter:                      871  (0.0316946); expected 549.6 (0.02)
+Passed Vit filter:                        74  (0.00269277); expected 27.5 (0.001)
+Passed Fwd filter:                         5  (0.000181944); expected 0.3 (1e-05)
+Initial search space (Z):              27481  [actual number of targets]
+Domain search space  (domZ):               3  [number of targets reported over threshold]
+# CPU time: 0.28u 0.19s 00:00:00.47 Elapsed: 00:00:00.31
+# Mc/sec: 6755.19
+//
+[ok]

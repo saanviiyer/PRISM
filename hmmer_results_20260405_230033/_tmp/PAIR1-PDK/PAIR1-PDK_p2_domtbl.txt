@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Pkinase              PF00069.32   262 PAIR1-PDK_P2         -            355   3.6e-66  223.8   0.0   1   1   6.9e-70   4.8e-66  223.4   0.0     1   262    23   311    23   311 0.87 Protein kinase domain
+PK_Tyr_Ser-Thr       PF07714.24   258 PAIR1-PDK_P2         -            355   4.8e-31  108.6   0.0   1   1   9.1e-35   6.2e-31  108.2   0.0     3   209    25   230    23   249 0.89 Protein tyrosine and serine/threonine kinase
+Kdo                  PF06293.21   207 PAIR1-PDK_P2         -            355   0.00072   19.6   0.3   1   1   1.7e-07    0.0012   18.9   0.3    53   160    61   162    47   178 0.77 Lipopolysaccharide kinase (Kdo/WaaP) family
+ABC1                 PF03109.23   245 PAIR1-PDK_P2         -            355   0.00093   19.0   0.4   1   1   3.5e-07    0.0024   17.7   0.1   180   221   134   175    78   188 0.76 ABC1 atypical kinase-like domain
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/PAIR1-PDK/PAIR1-PDK_p2_scan.fa
+# Target file:     /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/Pfam-A.hmm
+# Option settings: hmmscan -o /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/PAIR1-PDK/PAIR1-PDK_p2_scan.txt --domtblout /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/PAIR1-PDK/PAIR1-PDK_p2_domtbl.txt --noali -E 0.001 --domE 0.001 --cpu 4 /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/Pfam-A.hmm /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM/hmmer_results_20260405_230033/_tmp/PAIR1-PDK/PAIR1-PDK_p2_scan.fa 
+# Current dir:     /Users/saanviiyer/Downloads/CALTECH/RESEARCH/AITHYRA/PRISM
+# Date:            Sun Apr  5 23:00:34 2026
+# [ok]
