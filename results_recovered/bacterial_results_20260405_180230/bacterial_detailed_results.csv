@@ -1,0 +1,26 @@
+protein_pair,signature,sig_type,net_movement_toward_p2
+PAIR1-PDK,DMS (GC→AT bias),SBS,-0.014086
+PAIR1-PDK,"Nitrous Acid (C→A, T→G)",SBS,-0.204830
+PAIR1-PDK,"5-BrU (C→A, T→G)",SBS,-0.047178
+PAIR1-PDK,ROS burst (GC→TA),SBS,-0.422352
+PAIR1-PDK,~~NULL (uniform random),NULL,-0.081363
+PAIR2-Ras,DMS (GC→AT bias),SBS,-0.017004
+PAIR2-Ras,"Nitrous Acid (C→A, T→G)",SBS,-0.031486
+PAIR2-Ras,"5-BrU (C→A, T→G)",SBS,-0.039205
+PAIR2-Ras,ROS burst (GC→TA),SBS,-0.061392
+PAIR2-Ras,~~NULL (uniform random),NULL,-0.035041
+PAIR3-p53,DMS (GC→AT bias),SBS,0.002012
+PAIR3-p53,"Nitrous Acid (C→A, T→G)",SBS,0.004172
+PAIR3-p53,"5-BrU (C→A, T→G)",SBS,-0.067096
+PAIR3-p53,ROS burst (GC→TA),SBS,-0.067096
+PAIR3-p53,~~NULL (uniform random),NULL,-0.009883
+PAIR4-ABC,DMS (GC→AT bias),SBS,-0.011344
+PAIR4-ABC,"Nitrous Acid (C→A, T→G)",SBS,0.002612
+PAIR4-ABC,"5-BrU (C→A, T→G)",SBS,0.002004
+PAIR4-ABC,ROS burst (GC→TA),SBS,0.001017
+PAIR4-ABC,~~NULL (uniform random),NULL,0.003879
+PAIR5-HR,DMS (GC→AT bias),SBS,0.003090
+PAIR5-HR,"Nitrous Acid (C→A, T→G)",SBS,-0.063170
+PAIR5-HR,"5-BrU (C→A, T→G)",SBS,0.006390
+PAIR5-HR,ROS burst (GC→TA),SBS,0.002263
+PAIR5-HR,~~NULL (uniform random),NULL,-0.003330

@@ -1,0 +1,1013 @@
+  --- Signature: SBS-MS (SBS39_PROFILE) [SBS] ---
+  Final distance: 0.021697 | Movement toward P2: 0.004932
+
+  --- Signature: SBS-MS (SBS3_PROFILE) [SBS] ---
+  Final distance: 0.108990 | Movement toward P2: -0.082360
+
+  --- Signature: SBS-MS (SBS40a_PROFILE) [SBS] ---
+  Final distance: 0.102780 | Movement toward P2: -0.076150
+
+  --- Signature: SBS-MS (SBS40b_PROFILE) [SBS] ---
+  Final distance: 0.070068 | Movement toward P2: -0.043438
+
+  --- Signature: SBS-MS (SBS40c_PROFILE) [SBS] ---
+  Final distance: 0.018907 | Movement toward P2: 0.007723
+
+  --- Signature: SBS-MS (SBS41_PROFILE) [SBS] ---
+  Final distance: 0.021174 | Movement toward P2: 0.005456
+
+  --- Signature: SBS-MS (SBS42_PROFILE) [SBS] ---
+  Final distance: 0.025817 | Movement toward P2: 0.000813
+
+  --- Signature: SBS-MS (SBS84_PROFILE) [SBS] ---
+  Final distance: 0.026456 | Movement toward P2: 0.000174
+
+  --- Signature: SBS-MS (SBS85_PROFILE) [SBS] ---
+  Final distance: 0.101990 | Movement toward P2: -0.075360
+
+  --- Signature: SBS-MS (SBS88_PROFILE) [SBS] ---
+  Final distance: 0.020461 | Movement toward P2: 0.006169
+
+  --- Signature: SBS-MS (SBS89_PROFILE) [SBS] ---
+  Final distance: 0.092200 | Movement toward P2: -0.065571
+
+  --- Signature: SBS-MS (SBS8_PROFILE) [SBS] ---
+  Final distance: 0.077510 | Movement toward P2: -0.050880
+
+  --- Signature: SBS-MS (SBS90_PROFILE) [SBS] ---
+  Final distance: 0.025955 | Movement toward P2: 0.000675
+
+  --- Signature: SBS-MS (SBS91_PROFILE) [SBS] ---
+  Final distance: 0.084632 | Movement toward P2: -0.058002
+
+  --- Signature: SBS-MS (SBS93_PROFILE) [SBS] ---
+  Final distance: 0.093726 | Movement toward P2: -0.067096
+
+  --- Signature: SBS-MS (SBS94_PROFILE) [SBS] ---
+  Final distance: 0.016781 | Movement toward P2: 0.009849
+
+  --- Signature: SBS-MS (SBS96_PROFILE) [SBS] ---
+  Final distance: 0.021834 | Movement toward P2: 0.004796
+
+  --- Signature: SBS-MS (SBS97_PROFILE) [SBS] ---
+  Final distance: 0.082355 | Movement toward P2: -0.055726
+
+  --- Signature: SBS-MS (SBS98_PROFILE) [SBS] ---
+  Final distance: 0.012102 | Movement toward P2: 0.014527
+
+  --- Signature: SBS-MS (SBS99_PROFILE) [SBS] ---
+  Final distance: 0.022200 | Movement toward P2: 0.004430
+
+  --- Signature: SBS-MS (SBS9_PROFILE) [SBS] ---
+  Final distance: 0.024769 | Movement toward P2: 0.001860
+
+  --- Signature: Tobacco (SBS100_PROFILE) [SBS] ---
+  Final distance: 0.093193 | Movement toward P2: -0.066564
+
+  --- Signature: Tobacco (SBS109_PROFILE) [SBS] ---
+  Final distance: 0.094188 | Movement toward P2: -0.067558
+
+  --- Signature: Tobacco (SBS29_PROFILE) [SBS] ---
+  Final distance: 0.025323 | Movement toward P2: 0.001307
+
+  --- Signature: Tobacco (SBS4_PROFILE) [SBS] ---
+  Final distance: 0.027860 | Movement toward P2: -0.001230
+
+  --- Signature: Tobacco (SBS92_PROFILE) [SBS] ---
+  Final distance: 0.016420 | Movement toward P2: 0.010210
+
+  --- Signature: Tobacco (v3.3_DBS2_PROFILE) [DBS] ---
+  Final distance: 0.011732 | Movement toward P2: 0.014898
+
+  --- Signature: Tobacco (v3.3_ID3_PROFILE) [ID] ---
+  Final distance: 0.099545 | Movement toward P2: -0.072915
+
+  --- Signature: UV (SBS38_PROFILE) [SBS] ---
+  Final distance: 0.021015 | Movement toward P2: 0.005615
+
+  --- Signature: UV (SBS7a_PROFILE) [SBS] ---
+  Final distance: 0.079799 | Movement toward P2: -0.053169
+
+  --- Signature: UV (SBS7b_PROFILE) [SBS] ---
+  Final distance: 0.023266 | Movement toward P2: 0.003364
+
+  --- Signature: UV (SBS7c_PROFILE) [SBS] ---
+  Final distance: 0.025356 | Movement toward P2: 0.001274
+
+  --- Signature: UV (SBS7d_PROFILE) [SBS] ---
+  Final distance: 0.102780 | Movement toward P2: -0.076150
+
+  --- Signature: UV (v3.3_DBS1_PROFILE) [DBS] ---
+  Final distance: 0.106446 | Movement toward P2: -0.079816
+
+  --- Signature: UV (v3.3_ID13_PROFILE) [ID] ---
+  Final distance: 0.156714 | Movement toward P2: -0.130084
+
+  --- NULL MODEL (uniform, averaged over 5 replicates) ---
+  Null model avg movement: -0.054794 ± 0.034205
+
+  LEADERBOARD — PAIR3-p53
+  Signature                                           Type | Net movement toward P2
+  ---------------------------------------------------------------------------
+  01. SBS-MS (SBS37_PROFILE)                               SBS | 0.015825 ✓
+  02. SBS-MS (SBS33_PROFILE)                               SBS | 0.015016 ✓
+  03. Tobacco (v3.3_DBS2_PROFILE)                          DBS | 0.014898 ✓
+  04. SBS-MS (SBS98_PROFILE)                               SBS | 0.014527 ✓
+  05. Mismatch (v3.3_DBS10_PROFILE)                        DBS | 0.013675 ✓
+  06. Chemotherapy (SBS87_PROFILE)                         SBS | 0.012343 ✓
+  07. SBS-MS (SBS106_PROFILE)                              SBS | 0.011225 ✓
+  08. SBS-MS (SBS13_PROFILE)                               SBS | 0.010853 ✓
+  09. Tobacco (SBS92_PROFILE)                              SBS | 0.010210 ✓
+  10. SBS-MS (SBS94_PROFILE)                               SBS | 0.009849 ✓
+  11. Chemotherapy (SBS86_PROFILE)                         SBS | 0.008128 ✓
+  12. SBS-MS (SBS40c_PROFILE)                              SBS | 0.007723 ✓
+  13. Mismatch (SBS6_PROFILE)                              SBS | 0.007629 ✓
+  14. SBS-MS (SBS105_PROFILE)                              SBS | 0.006920 ✓
+  15. SBS-MS (SBS30_PROFILE)                               SBS | 0.006851 ✓
+  16. Mismatch (SBS14_PROFILE)                             SBS | 0.006725 ✓
+  17. SBS-MS (SBS88_PROFILE)                               SBS | 0.006169 ✓
+  18. SBS-MS (SBS16_PROFILE)                               SBS | 0.006153 ✓
+  19. UV (SBS38_PROFILE)                                   SBS | 0.005615 ✓
+  20. SBS-MS (SBS41_PROFILE)                               SBS | 0.005456 ✓
+  21. SBS-MS (SBS17a_PROFILE)                              SBS | 0.005131 ✓
+  22. SBS-MS (SBS22b_PROFILE)                              SBS | 0.004945 ✓
+  23. SBS-MS (SBS39_PROFILE)                               SBS | 0.004932 ✓
+  24. SBS-MS (SBS96_PROFILE)                               SBS | 0.004796 ✓
+  25. SBS-MS (SBS107_PROFILE)                              SBS | 0.004571 ✓
+  26. Chemotherapy (v3.3_DBS5_PROFILE)                     DBS | 0.004524 ✓
+  27. SBS-MS (SBS99_PROFILE)                               SBS | 0.004430 ✓
+  28. SBS-MS (SBS10c_PROFILE)                              SBS | 0.003965 ✓
+  29. Clock-like (SBS1_PROFILE)                            SBS | 0.003833 ✓
+  30. SBS-MS (SBS10b_PROFILE)                              SBS | 0.003606 ✓
+  31. UV (SBS7b_PROFILE)                                   SBS | 0.003364 ✓
+  32. SBS-MS (SBS108_PROFILE)                              SBS | 0.003310 ✓
+  33. Chemotherapy (SBS35_PROFILE)                         SBS | 0.002992 ✓
+  34. Mismatch (SBS21_PROFILE)                             SBS | 0.002906 ✓
+  35. SBS-MS (SBS12_PROFILE)                               SBS | 0.002676 ✓
+  36. Mismatch (SBS44_PROFILE)                             SBS | 0.002510 ✓
+  37. SBS-MS (SBS10a_PROFILE)                              SBS | 0.002062 ✓
+  38. Mismatch (v3.3_DBS7_PROFILE)                         DBS | 0.002014 ✓
+  39. SBS-MS (SBS9_PROFILE)                                SBS | 0.001860 ✓
+  40. SBS-MS (SBS36_PROFILE)                               SBS | 0.001778 ✓
+  41. SBS-MS (SBS110_PROFILE)                              SBS | 0.001389 ✓
+  42. Tobacco (SBS29_PROFILE)                              SBS | 0.001307 ✓
+  43. UV (SBS7c_PROFILE)                                   SBS | 0.001274 ✓
+  44. Chemotherapy (SBS31_PROFILE)                         SBS | 0.001178 ✓
+  45. SBS-MS (SBS42_PROFILE)                               SBS | 0.000813 ✓
+  46. SBS-MS (SBS90_PROFILE)                               SBS | 0.000675 ✓
+  47. SBS-MS (SBS84_PROFILE)                               SBS | 0.000174 ✓
+  48. Clock-like (SBS5_PROFILE)                            SBS | 0.000057 ✓
+  49. SBS-MS (SBS11_PROFILE)                               SBS | -0.000024 ✓
+  50. SBS-MS (SBS17b_PROFILE)                              SBS | -0.000887 ✓
+  51. Tobacco (SBS4_PROFILE)                               SBS | -0.001230 ✓
+  52. Mismatch (SBS20_PROFILE)                             SBS | -0.010735 ✓
+  53. SBS-MS (SBS40b_PROFILE)                              SBS | -0.043438 ✓
+  54. Mismatch (v3.3_ID7_PROFILE)                           ID | -0.049116 ✓
+  55. SBS-MS (SBS8_PROFILE)                                SBS | -0.050880 ✓
+  56. UV (SBS7a_PROFILE)                                   SBS | -0.053169 ✓
+  57. ~~NULL (uniform random)                             NULL | -0.054794
+  58. SBS-MS (SBS22a_PROFILE)                              SBS | -0.054841
+  59. Mismatch (SBS15_PROFILE)                             SBS | -0.055726
+  60. SBS-MS (SBS97_PROFILE)                               SBS | -0.055726
+  61. SBS-MS (SBS28_PROFILE)                               SBS | -0.055797
+  62. SBS-MS (SBS18_PROFILE)                               SBS | -0.056662
+  63. SBS-MS (SBS91_PROFILE)                               SBS | -0.058002
+  64. SBS-MS (SBS32_PROFILE)                               SBS | -0.062158
+  65. SBS-MS (SBS89_PROFILE)                               SBS | -0.065571
+  66. SBS-MS (SBS10d_PROFILE)                              SBS | -0.065655
+  67. Tobacco (SBS100_PROFILE)                             SBS | -0.066564
+  68. SBS-MS (SBS93_PROFILE)                               SBS | -0.067096
+  69. Tobacco (SBS109_PROFILE)                             SBS | -0.067558
+  70. SBS-MS (SBS34_PROFILE)                               SBS | -0.068716
+  71. SBS-MS (SBS19_PROFILE)                               SBS | -0.069168
+  72. SBS-MS (SBS103_PROFILE)                              SBS | -0.071573
+  73. Chemotherapy (SBS25_PROFILE)                         SBS | -0.072282
+  74. Tobacco (v3.3_ID3_PROFILE)                            ID | -0.072915
+  75. SBS-MS (SBS101_PROFILE)                              SBS | -0.072926
+  76. SBS-MS (SBS85_PROFILE)                               SBS | -0.075360
+  77. SBS-MS (SBS104_PROFILE)                              SBS | -0.075466
+  78. SBS-MS (SBS23_PROFILE)                               SBS | -0.075801
+  79. SBS-MS (SBS2_PROFILE)                                SBS | -0.076150
+  80. SBS-MS (SBS40a_PROFILE)                              SBS | -0.076150
+  81. UV (SBS7d_PROFILE)                                   SBS | -0.076150
+  82. Mismatch (SBS26_PROFILE)                             SBS | -0.076723
+  83. UV (v3.3_DBS1_PROFILE)                               DBS | -0.079816
+  84. SBS-MS (SBS102_PROFILE)                              SBS | -0.082124
+  85. SBS-MS (SBS3_PROFILE)                                SBS | -0.082360
+  86. SBS-MS (SBS24_PROFILE)                               SBS | -0.097834
+  87. UV (v3.3_ID13_PROFILE)                                ID | -0.130084
+
+======================================================================
+PROTEIN PAIR: PAIR4-ABC
+======================================================================
+Initial cosine distance (P1 → P2): 0.024467
+
+  --- Signature: Chemotherapy (SBS25_PROFILE) [SBS] ---
+  Final distance: 0.023476 | Movement toward P2: 0.000992
+
+  --- Signature: Chemotherapy (SBS31_PROFILE) [SBS] ---
+  Final distance: 0.045745 | Movement toward P2: -0.021278
+
+  --- Signature: Chemotherapy (SBS35_PROFILE) [SBS] ---
+  Final distance: 0.023195 | Movement toward P2: 0.001272
+
+  --- Signature: Chemotherapy (SBS86_PROFILE) [SBS] ---
+  Final distance: 0.027538 | Movement toward P2: -0.003071
+
+  --- Signature: Chemotherapy (SBS87_PROFILE) [SBS] ---
+  Final distance: 0.028354 | Movement toward P2: -0.003886
+
+  --- Signature: Chemotherapy (v3.3_DBS5_PROFILE) [DBS] ---
+  Final distance: 0.022834 | Movement toward P2: 0.001633
+
+  --- Signature: Clock-like (SBS1_PROFILE) [SBS] ---
+  Final distance: 0.024749 | Movement toward P2: -0.000281
+
+  --- Signature: Clock-like (SBS5_PROFILE) [SBS] ---
+  Final distance: 0.036541 | Movement toward P2: -0.012073
+
+  --- Signature: Mismatch (SBS14_PROFILE) [SBS] ---
+  Final distance: 0.025567 | Movement toward P2: -0.001100
+
+  --- Signature: Mismatch (SBS15_PROFILE) [SBS] ---
+  Final distance: 0.025133 | Movement toward P2: -0.000666
+
+  --- Signature: Mismatch (SBS20_PROFILE) [SBS] ---
+  Final distance: 0.024159 | Movement toward P2: 0.000309
+
+  --- Signature: Mismatch (SBS21_PROFILE) [SBS] ---
+  Final distance: 0.031021 | Movement toward P2: -0.006554
+
+  --- Signature: Mismatch (SBS26_PROFILE) [SBS] ---
+  Final distance: 0.024952 | Movement toward P2: -0.000485
+
+  --- Signature: Mismatch (SBS44_PROFILE) [SBS] ---
+  Final distance: 0.022235 | Movement toward P2: 0.002232
+
+  --- Signature: Mismatch (SBS6_PROFILE) [SBS] ---
+  Final distance: 0.022536 | Movement toward P2: 0.001931
+
+  --- Signature: Mismatch (v3.3_DBS10_PROFILE) [DBS] ---
+  Final distance: 0.016994 | Movement toward P2: 0.007473
+
+  --- Signature: Mismatch (v3.3_DBS7_PROFILE) [DBS] ---
+  Final distance: 0.028303 | Movement toward P2: -0.003836
+
+  --- Signature: Mismatch (v3.3_ID7_PROFILE) [ID] ---
+  Final distance: 0.102178 | Movement toward P2: -0.077711
+
+  --- Signature: SBS-MS (SBS101_PROFILE) [SBS] ---
+  Final distance: 0.031414 | Movement toward P2: -0.006947
+
+  --- Signature: SBS-MS (SBS102_PROFILE) [SBS] ---
+  Final distance: 0.031812 | Movement toward P2: -0.007344
+
+  --- Signature: SBS-MS (SBS103_PROFILE) [SBS] ---
+  Final distance: 0.048436 | Movement toward P2: -0.023969
+
+  --- Signature: SBS-MS (SBS104_PROFILE) [SBS] ---
+  Final distance: 0.024475 | Movement toward P2: -0.000008
+
+  --- Signature: SBS-MS (SBS105_PROFILE) [SBS] ---
+  Final distance: 0.023457 | Movement toward P2: 0.001011
+
+  --- Signature: SBS-MS (SBS106_PROFILE) [SBS] ---
+  Final distance: 0.024890 | Movement toward P2: -0.000422
+
+  --- Signature: SBS-MS (SBS107_PROFILE) [SBS] ---
+  Final distance: 0.021490 | Movement toward P2: 0.002977
+
+  --- Signature: SBS-MS (SBS108_PROFILE) [SBS] ---
+  Final distance: 0.023908 | Movement toward P2: 0.000559
+
+  --- Signature: SBS-MS (SBS10a_PROFILE) [SBS] ---
+  Final distance: 0.023596 | Movement toward P2: 0.000872
+
+  --- Signature: SBS-MS (SBS10b_PROFILE) [SBS] ---
+  Final distance: 0.022749 | Movement toward P2: 0.001719
+
+  --- Signature: SBS-MS (SBS10c_PROFILE) [SBS] ---
+  Final distance: 0.024572 | Movement toward P2: -0.000105
+
+  --- Signature: SBS-MS (SBS10d_PROFILE) [SBS] ---
+  Final distance: 0.024298 | Movement toward P2: 0.000170
+
+  --- Signature: SBS-MS (SBS110_PROFILE) [SBS] ---
+  Final distance: 0.032118 | Movement toward P2: -0.007651
+
+  --- Signature: SBS-MS (SBS11_PROFILE) [SBS] ---
+  Final distance: 0.022359 | Movement toward P2: 0.002108
+
+  --- Signature: SBS-MS (SBS12_PROFILE) [SBS] ---
+  Final distance: 0.026520 | Movement toward P2: -0.002053
+
+  --- Signature: SBS-MS (SBS13_PROFILE) [SBS] ---
+  Final distance: 0.026546 | Movement toward P2: -0.002078
+
+  --- Signature: SBS-MS (SBS16_PROFILE) [SBS] ---
+  Final distance: 0.025460 | Movement toward P2: -0.000993
+
+  --- Signature: SBS-MS (SBS17a_PROFILE) [SBS] ---
+  Final distance: 0.026074 | Movement toward P2: -0.001606
+
+  --- Signature: SBS-MS (SBS17b_PROFILE) [SBS] ---
+  Final distance: 0.029918 | Movement toward P2: -0.005450
+
+  --- Signature: SBS-MS (SBS18_PROFILE) [SBS] ---
+  Final distance: 0.030485 | Movement toward P2: -0.006017
+
+  --- Signature: SBS-MS (SBS19_PROFILE) [SBS] ---
+  Final distance: 0.036516 | Movement toward P2: -0.012048
+
+  --- Signature: SBS-MS (SBS22a_PROFILE) [SBS] ---
+  Final distance: 0.023432 | Movement toward P2: 0.001036
+
+  --- Signature: SBS-MS (SBS22b_PROFILE) [SBS] ---
+  Final distance: 0.022246 | Movement toward P2: 0.002221
+
+  --- Signature: SBS-MS (SBS23_PROFILE) [SBS] ---
+  Final distance: 0.039676 | Movement toward P2: -0.015209
+
+  --- Signature: SBS-MS (SBS24_PROFILE) [SBS] ---
+  Final distance: 0.021169 | Movement toward P2: 0.003299
+
+  --- Signature: SBS-MS (SBS28_PROFILE) [SBS] ---
+  Final distance: 0.028976 | Movement toward P2: -0.004509
+
+  --- Signature: SBS-MS (SBS2_PROFILE) [SBS] ---
+  Final distance: 0.035771 | Movement toward P2: -0.011304
+
+  --- Signature: SBS-MS (SBS30_PROFILE) [SBS] ---
+  Final distance: 0.030106 | Movement toward P2: -0.005639
+
+  --- Signature: SBS-MS (SBS32_PROFILE) [SBS] ---
+  Final distance: 0.034561 | Movement toward P2: -0.010093
+
+  --- Signature: SBS-MS (SBS33_PROFILE) [SBS] ---
+  Final distance: 0.027790 | Movement toward P2: -0.003323
+
+  --- Signature: SBS-MS (SBS34_PROFILE) [SBS] ---
+  Final distance: 0.023783 | Movement toward P2: 0.000685
+
+  --- Signature: SBS-MS (SBS36_PROFILE) [SBS] ---
+  Final distance: 0.022502 | Movement toward P2: 0.001966
+
+  --- Signature: SBS-MS (SBS37_PROFILE) [SBS] ---
+  Final distance: 0.041971 | Movement toward P2: -0.017504
+
+  --- Signature: SBS-MS (SBS39_PROFILE) [SBS] ---
+  Final distance: 0.023806 | Movement toward P2: 0.000662
+
+  --- Signature: SBS-MS (SBS3_PROFILE) [SBS] ---
+  Final distance: 0.032952 | Movement toward P2: -0.008485
+
+  --- Signature: SBS-MS (SBS40a_PROFILE) [SBS] ---
+  Final distance: 0.030336 | Movement toward P2: -0.005869
+
+  --- Signature: SBS-MS (SBS40b_PROFILE) [SBS] ---
+  Final distance: 0.032723 | Movement toward P2: -0.008256
+
+  --- Signature: SBS-MS (SBS40c_PROFILE) [SBS] ---
+  Final distance: 0.024104 | Movement toward P2: 0.000364
+
+  --- Signature: SBS-MS (SBS41_PROFILE) [SBS] ---
+  Final distance: 0.029792 | Movement toward P2: -0.005324
+
+  --- Signature: SBS-MS (SBS42_PROFILE) [SBS] ---
+  Final distance: 0.031906 | Movement toward P2: -0.007439
+
+  --- Signature: SBS-MS (SBS84_PROFILE) [SBS] ---
+  Final distance: 0.034625 | Movement toward P2: -0.010158
+
+  --- Signature: SBS-MS (SBS85_PROFILE) [SBS] ---
+  Final distance: 0.025342 | Movement toward P2: -0.000874
+
+  --- Signature: SBS-MS (SBS88_PROFILE) [SBS] ---
+  Final distance: 0.026982 | Movement toward P2: -0.002514
+
+  --- Signature: SBS-MS (SBS89_PROFILE) [SBS] ---
+  Final distance: 0.021484 | Movement toward P2: 0.002984
+
+  --- Signature: SBS-MS (SBS8_PROFILE) [SBS] ---
+  Final distance: 0.022809 | Movement toward P2: 0.001659
+
+  --- Signature: SBS-MS (SBS90_PROFILE) [SBS] ---
+  Final distance: 0.025219 | Movement toward P2: -0.000751
+
+  --- Signature: SBS-MS (SBS91_PROFILE) [SBS] ---
+  Final distance: 0.031163 | Movement toward P2: -0.006696
+
+  --- Signature: SBS-MS (SBS93_PROFILE) [SBS] ---
+  Final distance: 0.049663 | Movement toward P2: -0.025196
+
+  --- Signature: SBS-MS (SBS94_PROFILE) [SBS] ---
+  Final distance: 0.023565 | Movement toward P2: 0.000902
+
+  --- Signature: SBS-MS (SBS96_PROFILE) [SBS] ---
+  Final distance: 0.037603 | Movement toward P2: -0.013136
+
+  --- Signature: SBS-MS (SBS97_PROFILE) [SBS] ---
+  Final distance: 0.033349 | Movement toward P2: -0.008881
+
+  --- Signature: SBS-MS (SBS98_PROFILE) [SBS] ---
+  Final distance: 0.032569 | Movement toward P2: -0.008102
+
+  --- Signature: SBS-MS (SBS99_PROFILE) [SBS] ---
+  Final distance: 0.032921 | Movement toward P2: -0.008453
+
+  --- Signature: SBS-MS (SBS9_PROFILE) [SBS] ---
+  Final distance: 0.036336 | Movement toward P2: -0.011869
+
+  --- Signature: Tobacco (SBS100_PROFILE) [SBS] ---
+  Final distance: 0.029946 | Movement toward P2: -0.005479
+
+  --- Signature: Tobacco (SBS109_PROFILE) [SBS] ---
+  Final distance: 0.022678 | Movement toward P2: 0.001789
+
+  --- Signature: Tobacco (SBS29_PROFILE) [SBS] ---
+  Final distance: 0.023128 | Movement toward P2: 0.001340
+
+  --- Signature: Tobacco (SBS4_PROFILE) [SBS] ---
+  Final distance: 0.021955 | Movement toward P2: 0.002512
+
+  --- Signature: Tobacco (SBS92_PROFILE) [SBS] ---
+  Final distance: 0.036413 | Movement toward P2: -0.011945
+
+  --- Signature: Tobacco (v3.3_DBS2_PROFILE) [DBS] ---
+  Final distance: 0.019640 | Movement toward P2: 0.004827
+
+  --- Signature: Tobacco (v3.3_ID3_PROFILE) [ID] ---
+  Final distance: 0.262897 | Movement toward P2: -0.238429
+
+  --- Signature: UV (SBS38_PROFILE) [SBS] ---
+  Final distance: 0.023978 | Movement toward P2: 0.000489
+
+  --- Signature: UV (SBS7a_PROFILE) [SBS] ---
+  Final distance: 0.034423 | Movement toward P2: -0.009956
+
+  --- Signature: UV (SBS7b_PROFILE) [SBS] ---
+  Final distance: 0.043860 | Movement toward P2: -0.019393
+
+  --- Signature: UV (SBS7c_PROFILE) [SBS] ---
+  Final distance: 0.035478 | Movement toward P2: -0.011011
+
+  --- Signature: UV (SBS7d_PROFILE) [SBS] ---
+  Final distance: 0.044824 | Movement toward P2: -0.020357
+
+  --- Signature: UV (v3.3_DBS1_PROFILE) [DBS] ---
+  Final distance: 0.030946 | Movement toward P2: -0.006479
+
+  --- Signature: UV (v3.3_ID13_PROFILE) [ID] ---
+  Final distance: 0.167112 | Movement toward P2: -0.142645
+
+  --- NULL MODEL (uniform, averaged over 5 replicates) ---
+  Null model avg movement: 0.000090 ± 0.006010
+
+  LEADERBOARD — PAIR4-ABC
+  Signature                                           Type | Net movement toward P2
+  ---------------------------------------------------------------------------
+  01. Mismatch (v3.3_DBS10_PROFILE)                        DBS | 0.007473 ✓
+  02. Tobacco (v3.3_DBS2_PROFILE)                          DBS | 0.004827 ✓
+  03. SBS-MS (SBS24_PROFILE)                               SBS | 0.003299 ✓
+  04. SBS-MS (SBS89_PROFILE)                               SBS | 0.002984 ✓
+  05. SBS-MS (SBS107_PROFILE)                              SBS | 0.002977 ✓
+  06. Tobacco (SBS4_PROFILE)                               SBS | 0.002512 ✓
+  07. Mismatch (SBS44_PROFILE)                             SBS | 0.002232 ✓
+  08. SBS-MS (SBS22b_PROFILE)                              SBS | 0.002221 ✓
+  09. SBS-MS (SBS11_PROFILE)                               SBS | 0.002108 ✓
+  10. SBS-MS (SBS36_PROFILE)                               SBS | 0.001966 ✓
+  11. Mismatch (SBS6_PROFILE)                              SBS | 0.001931 ✓
+  12. Tobacco (SBS109_PROFILE)                             SBS | 0.001789 ✓
+  13. SBS-MS (SBS10b_PROFILE)                              SBS | 0.001719 ✓
+  14. SBS-MS (SBS8_PROFILE)                                SBS | 0.001659 ✓
+  15. Chemotherapy (v3.3_DBS5_PROFILE)                     DBS | 0.001633 ✓
+  16. Tobacco (SBS29_PROFILE)                              SBS | 0.001340 ✓
+  17. Chemotherapy (SBS35_PROFILE)                         SBS | 0.001272 ✓
+  18. SBS-MS (SBS22a_PROFILE)                              SBS | 0.001036 ✓
+  19. SBS-MS (SBS105_PROFILE)                              SBS | 0.001011 ✓
+  20. Chemotherapy (SBS25_PROFILE)                         SBS | 0.000992 ✓
+  21. SBS-MS (SBS94_PROFILE)                               SBS | 0.000902 ✓
+  22. SBS-MS (SBS10a_PROFILE)                              SBS | 0.000872 ✓
+  23. SBS-MS (SBS34_PROFILE)                               SBS | 0.000685 ✓
+  24. SBS-MS (SBS39_PROFILE)                               SBS | 0.000662 ✓
+  25. SBS-MS (SBS108_PROFILE)                              SBS | 0.000559 ✓
+  26. UV (SBS38_PROFILE)                                   SBS | 0.000489 ✓
+  27. SBS-MS (SBS40c_PROFILE)                              SBS | 0.000364 ✓
+  28. Mismatch (SBS20_PROFILE)                             SBS | 0.000309 ✓
+  29. SBS-MS (SBS10d_PROFILE)                              SBS | 0.000170 ✓
+  30. ~~NULL (uniform random)                             NULL | 0.000090
+  31. SBS-MS (SBS104_PROFILE)                              SBS | -0.000008
+  32. SBS-MS (SBS10c_PROFILE)                              SBS | -0.000105
+  33. Clock-like (SBS1_PROFILE)                            SBS | -0.000281
+  34. SBS-MS (SBS106_PROFILE)                              SBS | -0.000422
+  35. Mismatch (SBS26_PROFILE)                             SBS | -0.000485
+  36. Mismatch (SBS15_PROFILE)                             SBS | -0.000666
+  37. SBS-MS (SBS90_PROFILE)                               SBS | -0.000751
+  38. SBS-MS (SBS85_PROFILE)                               SBS | -0.000874
+  39. SBS-MS (SBS16_PROFILE)                               SBS | -0.000993
+  40. Mismatch (SBS14_PROFILE)                             SBS | -0.001100
+  41. SBS-MS (SBS17a_PROFILE)                              SBS | -0.001606
+  42. SBS-MS (SBS12_PROFILE)                               SBS | -0.002053
+  43. SBS-MS (SBS13_PROFILE)                               SBS | -0.002078
+  44. SBS-MS (SBS88_PROFILE)                               SBS | -0.002514
+  45. Chemotherapy (SBS86_PROFILE)                         SBS | -0.003071
+  46. SBS-MS (SBS33_PROFILE)                               SBS | -0.003323
+  47. Mismatch (v3.3_DBS7_PROFILE)                         DBS | -0.003836
+  48. Chemotherapy (SBS87_PROFILE)                         SBS | -0.003886
+  49. SBS-MS (SBS28_PROFILE)                               SBS | -0.004509
+  50. SBS-MS (SBS41_PROFILE)                               SBS | -0.005324
+  51. SBS-MS (SBS17b_PROFILE)                              SBS | -0.005450
+  52. Tobacco (SBS100_PROFILE)                             SBS | -0.005479
+  53. SBS-MS (SBS30_PROFILE)                               SBS | -0.005639
+  54. SBS-MS (SBS40a_PROFILE)                              SBS | -0.005869
+  55. SBS-MS (SBS18_PROFILE)                               SBS | -0.006017
+  56. UV (v3.3_DBS1_PROFILE)                               DBS | -0.006479
+  57. Mismatch (SBS21_PROFILE)                             SBS | -0.006554
+  58. SBS-MS (SBS91_PROFILE)                               SBS | -0.006696
+  59. SBS-MS (SBS101_PROFILE)                              SBS | -0.006947
+  60. SBS-MS (SBS102_PROFILE)                              SBS | -0.007344
+  61. SBS-MS (SBS42_PROFILE)                               SBS | -0.007439
+  62. SBS-MS (SBS110_PROFILE)                              SBS | -0.007651
+  63. SBS-MS (SBS98_PROFILE)                               SBS | -0.008102
+  64. SBS-MS (SBS40b_PROFILE)                              SBS | -0.008256
+  65. SBS-MS (SBS99_PROFILE)                               SBS | -0.008453
+  66. SBS-MS (SBS3_PROFILE)                                SBS | -0.008485
+  67. SBS-MS (SBS97_PROFILE)                               SBS | -0.008881
+  68. UV (SBS7a_PROFILE)                                   SBS | -0.009956
+  69. SBS-MS (SBS32_PROFILE)                               SBS | -0.010093
+  70. SBS-MS (SBS84_PROFILE)                               SBS | -0.010158
+  71. UV (SBS7c_PROFILE)                                   SBS | -0.011011
+  72. SBS-MS (SBS2_PROFILE)                                SBS | -0.011304
+  73. SBS-MS (SBS9_PROFILE)                                SBS | -0.011869
+  74. Tobacco (SBS92_PROFILE)                              SBS | -0.011945
+  75. SBS-MS (SBS19_PROFILE)                               SBS | -0.012048
+  76. Clock-like (SBS5_PROFILE)                            SBS | -0.012073
+  77. SBS-MS (SBS96_PROFILE)                               SBS | -0.013136
+  78. SBS-MS (SBS23_PROFILE)                               SBS | -0.015209
+  79. SBS-MS (SBS37_PROFILE)                               SBS | -0.017504
+  80. UV (SBS7b_PROFILE)                                   SBS | -0.019393
+  81. UV (SBS7d_PROFILE)                                   SBS | -0.020357
+  82. Chemotherapy (SBS31_PROFILE)                         SBS | -0.021278
+  83. SBS-MS (SBS103_PROFILE)                              SBS | -0.023969
+  84. SBS-MS (SBS93_PROFILE)                               SBS | -0.025196
+  85. Mismatch (v3.3_ID7_PROFILE)                           ID | -0.077711
+  86. UV (v3.3_ID13_PROFILE)                                ID | -0.142645
+  87. Tobacco (v3.3_ID3_PROFILE)                            ID | -0.238429
+
+======================================================================
+PROTEIN PAIR: PAIR5-HR
+======================================================================
+Initial cosine distance (P1 → P2): 0.071685
+
+  --- Signature: Chemotherapy (SBS25_PROFILE) [SBS] ---
+  Final distance: 0.065953 | Movement toward P2: 0.005733
+
+  --- Signature: Chemotherapy (SBS31_PROFILE) [SBS] ---
+  Final distance: 0.083469 | Movement toward P2: -0.011783
+
+  --- Signature: Chemotherapy (SBS35_PROFILE) [SBS] ---
+  Final distance: 0.067210 | Movement toward P2: 0.004475
+
+  --- Signature: Chemotherapy (SBS86_PROFILE) [SBS] ---
+  Final distance: 0.067091 | Movement toward P2: 0.004595
+
+  --- Signature: Chemotherapy (SBS87_PROFILE) [SBS] ---
+  Final distance: 0.131408 | Movement toward P2: -0.059722
+
+  --- Signature: Chemotherapy (v3.3_DBS5_PROFILE) [DBS] ---
+  Final distance: 0.146330 | Movement toward P2: -0.074645
+
+  --- Signature: Clock-like (SBS1_PROFILE) [SBS] ---
+  Final distance: 0.075926 | Movement toward P2: -0.004240
+
+  --- Signature: Clock-like (SBS5_PROFILE) [SBS] ---
+  Final distance: 0.074532 | Movement toward P2: -0.002846
+
+  --- Signature: Mismatch (SBS14_PROFILE) [SBS] ---
+  Final distance: 0.069265 | Movement toward P2: 0.002421
+
+  --- Signature: Mismatch (SBS15_PROFILE) [SBS] ---
+  Final distance: 0.069475 | Movement toward P2: 0.002211
+
+  --- Signature: Mismatch (SBS20_PROFILE) [SBS] ---
+  Final distance: 0.068393 | Movement toward P2: 0.003292
+
+  --- Signature: Mismatch (SBS21_PROFILE) [SBS] ---
+  Final distance: 0.064708 | Movement toward P2: 0.006978
+
+  --- Signature: Mismatch (SBS26_PROFILE) [SBS] ---
+  Final distance: 0.064045 | Movement toward P2: 0.007641
+
+  --- Signature: Mismatch (SBS44_PROFILE) [SBS] ---
+  Final distance: 0.088458 | Movement toward P2: -0.016772
+
+  --- Signature: Mismatch (SBS6_PROFILE) [SBS] ---
+  Final distance: 0.068862 | Movement toward P2: 0.002824
+
+  --- Signature: Mismatch (v3.3_DBS10_PROFILE) [DBS] ---
+  Final distance: 0.074071 | Movement toward P2: -0.002385
+
+  --- Signature: Mismatch (v3.3_DBS7_PROFILE) [DBS] ---
+  Final distance: 0.065243 | Movement toward P2: 0.006442
+
+  --- Signature: Mismatch (v3.3_ID7_PROFILE) [ID] ---
+  Final distance: 0.107043 | Movement toward P2: -0.035358
+
+  --- Signature: SBS-MS (SBS101_PROFILE) [SBS] ---
+  Final distance: 0.065485 | Movement toward P2: 0.006201
+
+  --- Signature: SBS-MS (SBS102_PROFILE) [SBS] ---
+  Final distance: 0.083010 | Movement toward P2: -0.011324
+
+  --- Signature: SBS-MS (SBS103_PROFILE) [SBS] ---
+  Final distance: 0.140182 | Movement toward P2: -0.068496
+
+  --- Signature: SBS-MS (SBS104_PROFILE) [SBS] ---
+  Final distance: 0.104982 | Movement toward P2: -0.033296
+
+  --- Signature: SBS-MS (SBS105_PROFILE) [SBS] ---
+  Final distance: 0.061192 | Movement toward P2: 0.010493
+
+  --- Signature: SBS-MS (SBS106_PROFILE) [SBS] ---
+  Final distance: 0.094889 | Movement toward P2: -0.023204
+
+  --- Signature: SBS-MS (SBS107_PROFILE) [SBS] ---
+  Final distance: 0.073021 | Movement toward P2: -0.001336
+
+  --- Signature: SBS-MS (SBS108_PROFILE) [SBS] ---
+  Final distance: 0.068170 | Movement toward P2: 0.003515
+
+  --- Signature: SBS-MS (SBS10a_PROFILE) [SBS] ---
+  Final distance: 0.140182 | Movement toward P2: -0.068496
+
+  --- Signature: SBS-MS (SBS10b_PROFILE) [SBS] ---
+  Final distance: 0.068818 | Movement toward P2: 0.002867
+
+  --- Signature: SBS-MS (SBS10c_PROFILE) [SBS] ---
+  Final distance: 0.060131 | Movement toward P2: 0.011554
+
+  --- Signature: SBS-MS (SBS10d_PROFILE) [SBS] ---
+  Final distance: 0.141004 | Movement toward P2: -0.069319
+
+  --- Signature: SBS-MS (SBS110_PROFILE) [SBS] ---
+  Final distance: 0.070276 | Movement toward P2: 0.001409
+
+  --- Signature: SBS-MS (SBS11_PROFILE) [SBS] ---
+  Final distance: 0.073189 | Movement toward P2: -0.001504
+
+  --- Signature: SBS-MS (SBS12_PROFILE) [SBS] ---
+  Final distance: 0.064309 | Movement toward P2: 0.007377
+
+  --- Signature: SBS-MS (SBS13_PROFILE) [SBS] ---
+  Final distance: 0.068778 | Movement toward P2: 0.002908
+
+  --- Signature: SBS-MS (SBS16_PROFILE) [SBS] ---
+  Final distance: 0.071363 | Movement toward P2: 0.000322
+
+  --- Signature: SBS-MS (SBS17a_PROFILE) [SBS] ---
+  Final distance: 0.065655 | Movement toward P2: 0.006030
+
+  --- Signature: SBS-MS (SBS17b_PROFILE) [SBS] ---
+  Final distance: 0.062253 | Movement toward P2: 0.009432
+
+  --- Signature: SBS-MS (SBS18_PROFILE) [SBS] ---
+  Final distance: 0.066194 | Movement toward P2: 0.005492
+
+  --- Signature: SBS-MS (SBS19_PROFILE) [SBS] ---
+  Final distance: 0.115800 | Movement toward P2: -0.044115
+
+  --- Signature: SBS-MS (SBS22a_PROFILE) [SBS] ---
+  Final distance: 0.067859 | Movement toward P2: 0.003827
+
+  --- Signature: SBS-MS (SBS22b_PROFILE) [SBS] ---
+  Final distance: 0.068365 | Movement toward P2: 0.003321
+
+  --- Signature: SBS-MS (SBS23_PROFILE) [SBS] ---
+  Final distance: 0.070404 | Movement toward P2: 0.001282
+
+  --- Signature: SBS-MS (SBS24_PROFILE) [SBS] ---
+  Final distance: 0.067767 | Movement toward P2: 0.003919
+
+  --- Signature: SBS-MS (SBS28_PROFILE) [SBS] ---
+  Final distance: 0.066675 | Movement toward P2: 0.005011
+
+  --- Signature: SBS-MS (SBS2_PROFILE) [SBS] ---
+  Final distance: 0.158331 | Movement toward P2: -0.086646
+
+  --- Signature: SBS-MS (SBS30_PROFILE) [SBS] ---
+  Final distance: 0.066974 | Movement toward P2: 0.004712
+
+  --- Signature: SBS-MS (SBS32_PROFILE) [SBS] ---
+  Final distance: 0.077514 | Movement toward P2: -0.005829
+
+  --- Signature: SBS-MS (SBS33_PROFILE) [SBS] ---
+  Final distance: 0.064265 | Movement toward P2: 0.007420
+
+  --- Signature: SBS-MS (SBS34_PROFILE) [SBS] ---
+  Final distance: 0.072241 | Movement toward P2: -0.000556
+
+  --- Signature: SBS-MS (SBS36_PROFILE) [SBS] ---
+  Final distance: 0.068770 | Movement toward P2: 0.002915
+
+  --- Signature: SBS-MS (SBS37_PROFILE) [SBS] ---
+  Final distance: 0.083607 | Movement toward P2: -0.011921
+
+  --- Signature: SBS-MS (SBS39_PROFILE) [SBS] ---
+  Final distance: 0.066466 | Movement toward P2: 0.005219
+
+  --- Signature: SBS-MS (SBS3_PROFILE) [SBS] ---
+  Final distance: 0.078102 | Movement toward P2: -0.006417
+
+  --- Signature: SBS-MS (SBS40a_PROFILE) [SBS] ---
+  Final distance: 0.069509 | Movement toward P2: 0.002176
+
+  --- Signature: SBS-MS (SBS40b_PROFILE) [SBS] ---
+  Final distance: 0.072692 | Movement toward P2: -0.001006
+
+  --- Signature: SBS-MS (SBS40c_PROFILE) [SBS] ---
+  Final distance: 0.088653 | Movement toward P2: -0.016968
+
+  --- Signature: SBS-MS (SBS41_PROFILE) [SBS] ---
+  Final distance: 0.072223 | Movement toward P2: -0.000538
+
+  --- Signature: SBS-MS (SBS42_PROFILE) [SBS] ---
+  Final distance: 0.069472 | Movement toward P2: 0.002213
+
+  --- Signature: SBS-MS (SBS84_PROFILE) [SBS] ---
+  Final distance: 0.068856 | Movement toward P2: 0.002829
+
+  --- Signature: SBS-MS (SBS85_PROFILE) [SBS] ---
+  Final distance: 0.066681 | Movement toward P2: 0.005004
+
+  --- Signature: SBS-MS (SBS88_PROFILE) [SBS] ---
+  Final distance: 0.065362 | Movement toward P2: 0.006324
+
+  --- Signature: SBS-MS (SBS89_PROFILE) [SBS] ---
+  Final distance: 0.165894 | Movement toward P2: -0.094208
+
+  --- Signature: SBS-MS (SBS8_PROFILE) [SBS] ---
+  Final distance: 0.140182 | Movement toward P2: -0.068496
+
+  --- Signature: SBS-MS (SBS90_PROFILE) [SBS] ---
+  Final distance: 0.065255 | Movement toward P2: 0.006431
+
+  --- Signature: SBS-MS (SBS91_PROFILE) [SBS] ---
+  Final distance: 0.068226 | Movement toward P2: 0.003460
+
+  --- Signature: SBS-MS (SBS93_PROFILE) [SBS] ---
+  Final distance: 0.085101 | Movement toward P2: -0.013416
+
+  --- Signature: SBS-MS (SBS94_PROFILE) [SBS] ---
+  Final distance: 0.064194 | Movement toward P2: 0.007492
+
+  --- Signature: SBS-MS (SBS96_PROFILE) [SBS] ---
+  Final distance: 0.064286 | Movement toward P2: 0.007399
+
+  --- Signature: SBS-MS (SBS97_PROFILE) [SBS] ---
+  Final distance: 0.100819 | Movement toward P2: -0.029133
+
+  --- Signature: SBS-MS (SBS98_PROFILE) [SBS] ---
+  Final distance: 0.130439 | Movement toward P2: -0.058753
+
+  --- Signature: SBS-MS (SBS99_PROFILE) [SBS] ---
+  Final distance: 0.065655 | Movement toward P2: 0.006030
+
+  --- Signature: SBS-MS (SBS9_PROFILE) [SBS] ---
+  Final distance: 0.067562 | Movement toward P2: 0.004124
+
+  --- Signature: Tobacco (SBS100_PROFILE) [SBS] ---
+  Final distance: 0.065209 | Movement toward P2: 0.006476
+
+  --- Signature: Tobacco (SBS109_PROFILE) [SBS] ---
+  Final distance: 0.090176 | Movement toward P2: -0.018491
+
+  --- Signature: Tobacco (SBS29_PROFILE) [SBS] ---
+  Final distance: 0.105570 | Movement toward P2: -0.033884
+
+  --- Signature: Tobacco (SBS4_PROFILE) [SBS] ---
+  Final distance: 0.133838 | Movement toward P2: -0.062153
+
+  --- Signature: Tobacco (SBS92_PROFILE) [SBS] ---
+  Final distance: 0.085818 | Movement toward P2: -0.014132
+
+  --- Signature: Tobacco (v3.3_DBS2_PROFILE) [DBS] ---
+  Final distance: 0.083707 | Movement toward P2: -0.012021
+
+  --- Signature: Tobacco (v3.3_ID3_PROFILE) [ID] ---
+  Final distance: 0.157848 | Movement toward P2: -0.086162
+
+  --- Signature: UV (SBS38_PROFILE) [SBS] ---
+  Final distance: 0.066356 | Movement toward P2: 0.005329
+
+  --- Signature: UV (SBS7a_PROFILE) [SBS] ---
+  Final distance: 0.070907 | Movement toward P2: 0.000779
+
+  --- Signature: UV (SBS7b_PROFILE) [SBS] ---
+  Final distance: 0.139454 | Movement toward P2: -0.067769
+
+  --- Signature: UV (SBS7c_PROFILE) [SBS] ---
+  Final distance: 0.098173 | Movement toward P2: -0.026488
+
+  --- Signature: UV (SBS7d_PROFILE) [SBS] ---
+  Final distance: 0.117780 | Movement toward P2: -0.046094
+
+  --- Signature: UV (v3.3_DBS1_PROFILE) [DBS] ---
+  Final distance: 0.165894 | Movement toward P2: -0.094208
+
+  --- Signature: UV (v3.3_ID13_PROFILE) [ID] ---
+  Final distance: 0.116676 | Movement toward P2: -0.044990
+
+  --- NULL MODEL (uniform, averaged over 5 replicates) ---
+  Null model avg movement: 0.002207 ± 0.001677
+
+  LEADERBOARD — PAIR5-HR
+  Signature                                           Type | Net movement toward P2
+  ---------------------------------------------------------------------------
+  01. SBS-MS (SBS10c_PROFILE)                              SBS | 0.011554 ✓
+  02. SBS-MS (SBS105_PROFILE)                              SBS | 0.010493 ✓
+  03. SBS-MS (SBS17b_PROFILE)                              SBS | 0.009432 ✓
+  04. Mismatch (SBS26_PROFILE)                             SBS | 0.007641 ✓
+  05. SBS-MS (SBS94_PROFILE)                               SBS | 0.007492 ✓
+  06. SBS-MS (SBS33_PROFILE)                               SBS | 0.007420 ✓
+  07. SBS-MS (SBS96_PROFILE)                               SBS | 0.007399 ✓
+  08. SBS-MS (SBS12_PROFILE)                               SBS | 0.007377 ✓
+  09. Mismatch (SBS21_PROFILE)                             SBS | 0.006978 ✓
+  10. Tobacco (SBS100_PROFILE)                             SBS | 0.006476 ✓
+  11. Mismatch (v3.3_DBS7_PROFILE)                         DBS | 0.006442 ✓
+  12. SBS-MS (SBS90_PROFILE)                               SBS | 0.006431 ✓
+  13. SBS-MS (SBS88_PROFILE)                               SBS | 0.006324 ✓
+  14. SBS-MS (SBS101_PROFILE)                              SBS | 0.006201 ✓
+  15. SBS-MS (SBS99_PROFILE)                               SBS | 0.006030 ✓
+  16. SBS-MS (SBS17a_PROFILE)                              SBS | 0.006030 ✓
+  17. Chemotherapy (SBS25_PROFILE)                         SBS | 0.005733 ✓
+  18. SBS-MS (SBS18_PROFILE)                               SBS | 0.005492 ✓
+  19. UV (SBS38_PROFILE)                                   SBS | 0.005329 ✓
+  20. SBS-MS (SBS39_PROFILE)                               SBS | 0.005219 ✓
+  21. SBS-MS (SBS28_PROFILE)                               SBS | 0.005011 ✓
+  22. SBS-MS (SBS85_PROFILE)                               SBS | 0.005004 ✓
+  23. SBS-MS (SBS30_PROFILE)                               SBS | 0.004712 ✓
+  24. Chemotherapy (SBS86_PROFILE)                         SBS | 0.004595 ✓
+  25. Chemotherapy (SBS35_PROFILE)                         SBS | 0.004475 ✓
+  26. SBS-MS (SBS9_PROFILE)                                SBS | 0.004124 ✓
+  27. SBS-MS (SBS24_PROFILE)                               SBS | 0.003919 ✓
+  28. SBS-MS (SBS22a_PROFILE)                              SBS | 0.003827 ✓
+  29. SBS-MS (SBS108_PROFILE)                              SBS | 0.003515 ✓
+  30. SBS-MS (SBS91_PROFILE)                               SBS | 0.003460 ✓
+  31. SBS-MS (SBS22b_PROFILE)                              SBS | 0.003321 ✓
+  32. Mismatch (SBS20_PROFILE)                             SBS | 0.003292 ✓
+  33. SBS-MS (SBS36_PROFILE)                               SBS | 0.002915 ✓
+  34. SBS-MS (SBS13_PROFILE)                               SBS | 0.002908 ✓
+  35. SBS-MS (SBS10b_PROFILE)                              SBS | 0.002867 ✓
+  36. SBS-MS (SBS84_PROFILE)                               SBS | 0.002829 ✓
+  37. Mismatch (SBS6_PROFILE)                              SBS | 0.002824 ✓
+  38. Mismatch (SBS14_PROFILE)                             SBS | 0.002421 ✓
+  39. SBS-MS (SBS42_PROFILE)                               SBS | 0.002213 ✓
+  40. Mismatch (SBS15_PROFILE)                             SBS | 0.002211 ✓
+  41. ~~NULL (uniform random)                             NULL | 0.002207
+  42. SBS-MS (SBS40a_PROFILE)                              SBS | 0.002176
+  43. SBS-MS (SBS110_PROFILE)                              SBS | 0.001409
+  44. SBS-MS (SBS23_PROFILE)                               SBS | 0.001282
+  45. UV (SBS7a_PROFILE)                                   SBS | 0.000779
+  46. SBS-MS (SBS16_PROFILE)                               SBS | 0.000322
+  47. SBS-MS (SBS41_PROFILE)                               SBS | -0.000538
+  48. SBS-MS (SBS34_PROFILE)                               SBS | -0.000556
+  49. SBS-MS (SBS40b_PROFILE)                              SBS | -0.001006
+  50. SBS-MS (SBS107_PROFILE)                              SBS | -0.001336
+  51. SBS-MS (SBS11_PROFILE)                               SBS | -0.001504
+  52. Mismatch (v3.3_DBS10_PROFILE)                        DBS | -0.002385
+  53. Clock-like (SBS5_PROFILE)                            SBS | -0.002846
+  54. Clock-like (SBS1_PROFILE)                            SBS | -0.004240
+  55. SBS-MS (SBS32_PROFILE)                               SBS | -0.005829
+  56. SBS-MS (SBS3_PROFILE)                                SBS | -0.006417
+  57. SBS-MS (SBS102_PROFILE)                              SBS | -0.011324
+  58. Chemotherapy (SBS31_PROFILE)                         SBS | -0.011783
+  59. SBS-MS (SBS37_PROFILE)                               SBS | -0.011921
+  60. Tobacco (v3.3_DBS2_PROFILE)                          DBS | -0.012021
+  61. SBS-MS (SBS93_PROFILE)                               SBS | -0.013416
+  62. Tobacco (SBS92_PROFILE)                              SBS | -0.014132
+  63. Mismatch (SBS44_PROFILE)                             SBS | -0.016772
+  64. SBS-MS (SBS40c_PROFILE)                              SBS | -0.016968
+  65. Tobacco (SBS109_PROFILE)                             SBS | -0.018491
+  66. SBS-MS (SBS106_PROFILE)                              SBS | -0.023204
+  67. UV (SBS7c_PROFILE)                                   SBS | -0.026488
+  68. SBS-MS (SBS97_PROFILE)                               SBS | -0.029133
+  69. SBS-MS (SBS104_PROFILE)                              SBS | -0.033296
+  70. Tobacco (SBS29_PROFILE)                              SBS | -0.033884
+  71. Mismatch (v3.3_ID7_PROFILE)                           ID | -0.035358
+  72. SBS-MS (SBS19_PROFILE)                               SBS | -0.044115
+  73. UV (v3.3_ID13_PROFILE)                                ID | -0.044990
+  74. UV (SBS7d_PROFILE)                                   SBS | -0.046094
+  75. SBS-MS (SBS98_PROFILE)                               SBS | -0.058753
+  76. Chemotherapy (SBS87_PROFILE)                         SBS | -0.059722
+  77. Tobacco (SBS4_PROFILE)                               SBS | -0.062153
+  78. UV (SBS7b_PROFILE)                                   SBS | -0.067769
+  79. SBS-MS (SBS103_PROFILE)                              SBS | -0.068496
+  80. SBS-MS (SBS10a_PROFILE)                              SBS | -0.068496
+  81. SBS-MS (SBS8_PROFILE)                                SBS | -0.068496
+  82. SBS-MS (SBS10d_PROFILE)                              SBS | -0.069319
+  83. Chemotherapy (v3.3_DBS5_PROFILE)                     DBS | -0.074645
+  84. Tobacco (v3.3_ID3_PROFILE)                            ID | -0.086162
+  85. SBS-MS (SBS2_PROFILE)                                SBS | -0.086646
+  86. SBS-MS (SBS89_PROFILE)                               SBS | -0.094208
+  87. UV (v3.3_DBS1_PROFILE)                               DBS | -0.094208
+
+================================================================================
+CROSS-PAIR SUMMARY (average movement toward P2 across all pairs)
+================================================================================
+
+Rank  Signature                                           Type   Avg Movement        Std  Pairs  > Null?
+----------------------------------------------------------------------------------------------------
+1     SBS-MS (SBS105_PROFILE)                              SBS      -0.004049   0.014518      5   ✓
+2     Tobacco (SBS92_PROFILE)                              SBS      -0.005446   0.008662      5   ✓
+3     SBS-MS (SBS39_PROFILE)                               SBS      -0.005928   0.011790      5   ✓
+4     SBS-MS (SBS110_PROFILE)                              SBS      -0.006276   0.007692      5   ✓
+5     SBS-MS (SBS11_PROFILE)                               SBS      -0.006883   0.008862      5   ✓
+6     SBS-MS (SBS41_PROFILE)                               SBS      -0.007136   0.009365      5   ✓
+7     UV (SBS38_PROFILE)                                   SBS      -0.007429   0.017816      5   ✓
+8     Mismatch (SBS6_PROFILE)                              SBS      -0.007443   0.015471      5   ✓
+9     SBS-MS (SBS88_PROFILE)                               SBS      -0.007885   0.014513      5   ✓
+10    SBS-MS (SBS99_PROFILE)                               SBS      -0.008606   0.013625      5   ✓
+11    SBS-MS (SBS10c_PROFILE)                              SBS      -0.008963   0.019937      5   ✓
+12    SBS-MS (SBS40c_PROFILE)                              SBS      -0.009707   0.014909      5   ✓
+13    SBS-MS (SBS106_PROFILE)                              SBS      -0.009925   0.013379      5   ✓
+14    SBS-MS (SBS107_PROFILE)                              SBS      -0.010055   0.015112      5   ✓
+15    SBS-MS (SBS9_PROFILE)                                SBS      -0.010424   0.012600      5   ✓
+16    Mismatch (SBS21_PROFILE)                             SBS      -0.010839   0.015285      5   ✓
+17    SBS-MS (SBS96_PROFILE)                               SBS      -0.011304   0.015407      5   ✓
+18    Clock-like (SBS1_PROFILE)                            SBS      -0.011378   0.016145      5   ✓
+19    SBS-MS (SBS108_PROFILE)                              SBS      -0.011433   0.017636      5   ✓
+20    Mismatch (v3.3_DBS10_PROFILE)                        DBS      -0.012925   0.024322      5   ✓
+21    Mismatch (SBS20_PROFILE)                             SBS      -0.013350   0.014250      5   ✓
+22    SBS-MS (SBS42_PROFILE)                               SBS      -0.013896   0.015577      5   ✓
+23    SBS-MS (SBS33_PROFILE)                               SBS      -0.013978   0.027108      5   ✓
+24    UV (SBS7c_PROFILE)                                   SBS      -0.015483   0.009760      5   ✓
+25    SBS-MS (SBS10a_PROFILE)                              SBS      -0.017350   0.026346      5   ✓
+26    Tobacco (SBS29_PROFILE)                              SBS      -0.018194   0.016367      5   ✓
+27    SBS-MS (SBS18_PROFILE)                               SBS      -0.018221   0.021790      5   ✓
+28    UV (SBS7a_PROFILE)                                   SBS      -0.018238   0.018544      5   ✓
+29    Mismatch (SBS15_PROFILE)                             SBS      -0.018240   0.021227      5   ✓
+30    SBS-MS (SBS37_PROFILE)                               SBS      -0.020344   0.022456      5   ✓
+31    SBS-MS (SBS32_PROFILE)                               SBS      -0.021089   0.021196      5   ✓
+32    SBS-MS (SBS12_PROFILE)                               SBS      -0.021263   0.029751      5   ✓
+33    SBS-MS (SBS101_PROFILE)                              SBS      -0.023548   0.026886      5   ✓
+34    Chemotherapy (SBS35_PROFILE)                         SBS      -0.024283   0.039543      5   ✓
+35    Tobacco (SBS109_PROFILE)                             SBS      -0.024306   0.023218      5   ✓
+36    SBS-MS (SBS98_PROFILE)                               SBS      -0.026244   0.029038      5   ✓
+37    Mismatch (v3.3_DBS7_PROFILE)                         DBS      -0.026394   0.039666      5   ✓
+38    UV (SBS7b_PROFILE)                                   SBS      -0.027193   0.023783      5   ✓
+39    SBS-MS (SBS93_PROFILE)                               SBS      -0.027305   0.020327      5   ✓
+40    SBS-MS (SBS34_PROFILE)                               SBS      -0.027515   0.026594      5   ✓
+41    Tobacco (SBS4_PROFILE)                               SBS      -0.028860   0.031456      5   ✓
+42    Chemotherapy (SBS31_PROFILE)                         SBS      -0.029207   0.037797      5   ✓
+43    SBS-MS (SBS104_PROFILE)                              SBS      -0.031716   0.024638      5   ✓
+44    SBS-MS (SBS19_PROFILE)                               SBS      -0.031873   0.022366      5   ✓
+45    SBS-MS (SBS40a_PROFILE)                              SBS      -0.033167   0.028436      5   ✓
+46    Mismatch (SBS26_PROFILE)                             SBS      -0.034622   0.032715      5   ✓
+47    SBS-MS (SBS97_PROFILE)                               SBS      -0.037108   0.017054      5   ✓
+48    Chemotherapy (SBS25_PROFILE)                         SBS      -0.037124   0.042578      5   ✓
+49    Tobacco (SBS100_PROFILE)                             SBS      -0.037812   0.039926      5   ✓
+50    Mismatch (SBS14_PROFILE)                             SBS      -0.038076   0.075829      5   ✓
+51    ~~NULL (uniform random)                             NULL      -0.038187   0.038085      5   
+52    SBS-MS (SBS22a_PROFILE)                              SBS      -0.038892   0.040734      5   
+53    SBS-MS (SBS94_PROFILE)                               SBS      -0.039318   0.077217      5   
+54    SBS-MS (SBS10b_PROFILE)                              SBS      -0.040780   0.082118      5   
+55    SBS-MS (SBS3_PROFILE)                                SBS      -0.040791   0.029579      5   
+56    SBS-MS (SBS10d_PROFILE)                              SBS      -0.041473   0.025264      5   
+57    SBS-MS (SBS17a_PROFILE)                              SBS      -0.041648   0.072781      5   
+58    Mismatch (SBS44_PROFILE)                             SBS      -0.042842   0.075404      5   
+59    SBS-MS (SBS84_PROFILE)                               SBS      -0.042850   0.074866      5   
+60    Chemotherapy (SBS86_PROFILE)                         SBS      -0.043370   0.075926      5   
+61    SBS-MS (SBS89_PROFILE)                               SBS      -0.043602   0.033596      5   
+62    SBS-MS (SBS13_PROFILE)                               SBS      -0.043642   0.081858      5   
+63    SBS-MS (SBS30_PROFILE)                               SBS      -0.044017   0.077149      5   
+64    SBS-MS (SBS28_PROFILE)                               SBS      -0.044469   0.049968      5   
+65    SBS-MS (SBS90_PROFILE)                               SBS      -0.045261   0.079581      5   
+66    SBS-MS (SBS22b_PROFILE)                              SBS      -0.045625   0.081775      5   
+67    SBS-MS (SBS17b_PROFILE)                              SBS      -0.046227   0.072289      5   
+68    SBS-MS (SBS36_PROFILE)                               SBS      -0.046740   0.080752      5   
+69    Clock-like (SBS5_PROFILE)                            SBS      -0.048694   0.078510      5   
+70    SBS-MS (SBS8_PROFILE)                                SBS      -0.049639   0.032107      5   
+71    SBS-MS (SBS103_PROFILE)                              SBS      -0.052637   0.018153      5   
+72    SBS-MS (SBS102_PROFILE)                              SBS      -0.053065   0.037804      5   
+73    Tobacco (v3.3_DBS2_PROFILE)                          DBS      -0.053298   0.081182      5   
+74    Chemotherapy (SBS87_PROFILE)                         SBS      -0.053705   0.079275      5   
+75    SBS-MS (SBS2_PROFILE)                                SBS      -0.054047   0.027528      5   
+76    SBS-MS (SBS40b_PROFILE)                              SBS      -0.057631   0.073861      5   
+77    SBS-MS (SBS85_PROFILE)                               SBS      -0.062766   0.073946      5   
+78    SBS-MS (SBS91_PROFILE)                               SBS      -0.063075   0.074720      5   
+79    Chemotherapy (v3.3_DBS5_PROFILE)                     DBS      -0.065264   0.069046      5   
+80    SBS-MS (SBS23_PROFILE)                               SBS      -0.066286   0.074859      5   
+81    UV (v3.3_DBS1_PROFILE)                               DBS      -0.066533   0.031004      5   
+82    SBS-MS (SBS24_PROFILE)                               SBS      -0.067104   0.080329      5   
+83    SBS-MS (SBS16_PROFILE)                               SBS      -0.072163   0.095714      5   
+84    UV (SBS7d_PROFILE)                                   SBS      -0.079917   0.064888      5   
+85    Mismatch (v3.3_ID7_PROFILE)                           ID      -0.100980   0.063779      5   
+86    Tobacco (v3.3_ID3_PROFILE)                            ID      -0.137350   0.068936      5   
+87    UV (v3.3_ID13_PROFILE)                                ID      -0.171988   0.087653      5   
+
+Note: '✓' = outperforms null (uniform random) model on average.
+Null model average movement: -0.038187
+
+================================================================================
+SAVING RESULTS TO CSV
+================================================================================

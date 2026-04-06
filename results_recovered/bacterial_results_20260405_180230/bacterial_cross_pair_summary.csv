@@ -1,0 +1,6 @@
+rank,signature,sig_type,avg_movement_toward_p2,std,n_pairs,beats_null_model
+1,DMS (GC→AT bias),SBS,-0.007467,0.008380,5,YES
+2,~~NULL (uniform random),NULL,-0.025148,0.031015,5,NO
+3,"5-BrU (C→A, T→G)",SBS,-0.029017,0.028634,5,NO
+4,"Nitrous Acid (C→A, T→G)",SBS,-0.058540,0.077235,5,NO
+5,ROS burst (GC→TA),SBS,-0.109512,0.159182,5,NO
